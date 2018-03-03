@@ -479,7 +479,6 @@ def test_task8():
 p_rank, b_cent, d_cent = cor.idxmax(axis=1)
 
 # Printing out the top character accoding to the three measures
-# ... YOUR CODE FOR TASK 6 HERE ...
 ```
 
 
