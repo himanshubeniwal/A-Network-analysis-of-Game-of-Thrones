@@ -3,5 +3,10 @@ In this project, you will look at the character co-occurrence network and its ev
 <br />
 You will look at how the importance of the characters changes over the books using different centrality measures.
 
-# Read more here:
-https://medium.com/@himanshubeniwal/a-network-analysis-of-game-of-thrones-73360505e541
+This project is part of Datacamp project https://www.datacamp.com/projects/76 using Python. 
+
+
+# Motivation and References -
+* https://github.com/MridulS/pydata-networkx
+* https://www.datacamp.com/projects/76
+
